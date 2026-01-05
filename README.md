@@ -1,5 +1,3 @@
-![Postman Tests](https://github.com/eslamwaled150/QACART--APP--TODO/actions/workflows/postman.yml/badge.svg)
-
 # 📝 QACART TODO API – Postman Automation Project
 
 Automated API testing project for the **QACART TODO Application**, built using **Postman** and executed via **GitHub Actions CI**.
@@ -36,8 +34,5 @@ All tests are written in **Postman** and executed automatically using **Postman 
 ## ▶️ How to Run Locally
 
 ```bash
-postman collection run "qacart todo project.postman_collection2.json" \
+postman collection run "qacart todo project.postman_collection2.json" 
 -e "TODO QACART project.postman_environment2.json"
-
-## 📂 Project Structure
-
