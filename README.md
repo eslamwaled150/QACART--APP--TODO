@@ -28,9 +28,6 @@ All tests are written in **Postman** and executed automatically using **Postman 
 
 ---
 
-
----
-
 ## ▶️ How to Run Locally
 
 ```bash
